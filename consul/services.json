@@ -1,0 +1,17 @@
+{
+    "services": [
+        {
+            "name": "memcached-name",
+            "tags": [
+                "memcached"
+            ],
+            "port": 11211,
+            "checks": [
+                {
+                    "args": ["/etc/consul.d/scripts/memcached.sh"],
+                    "interval": "5s"
+                }
+            ]
+        }
+    ]
+}
