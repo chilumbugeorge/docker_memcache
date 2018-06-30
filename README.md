@@ -4,7 +4,7 @@ Docker package for creating docker image and containers for mcrouter, a routing 
 
 ## File structure
 
-**manual.txt**: This file contains the instructions to create an memcached docker image
+**manual.txt**: This file contains the instructions to create a memcached docker image
 
 **Dockerfile**: is the dockerfile config to be used for creating the mcrouter image with all the necessary supporting system tools.
 
