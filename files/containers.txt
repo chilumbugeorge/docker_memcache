@@ -1,0 +1,4 @@
+memcache-utapass-sid-1=10.1.24.236
+memcache-new-mybox-1=10.1.24.200
+memcache-new-shared-1=10.1.24.203
+memcache-new-general-1=10.1.24.206
