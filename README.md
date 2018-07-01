@@ -24,4 +24,4 @@ total 24
 
 **consul**: This folder contains consulconfig files. No need to do anythihg as the scripts in the upgrade_scripts folder handle pretty much everything.
 
-**files**: The files folder contains a file with the container host names and their IPs used by the scripts in the upgrade_scripts folder. Update the hostname and their mapped IPs appropriately for the mcrouter containers.
+**files**: The files folder contains a file with the container host names and their IPs used by the scripts in the upgrade_scripts folder. Update the hostname and their mapped IPs appropriately to reflect the names of your mcrouter containers.
