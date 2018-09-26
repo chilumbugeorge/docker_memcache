@@ -1,3 +1,3 @@
-memcache-mybox-1=10.1.24.63
-memcache-library-metadata-1=10.1.24.48
-memcache-utapass-sid-1=10.1.24.236
+memcache-session-1=192.168.2.100
+memcache-notifications-1=192.168.2.120
+memcache-general-1=192.168.2.133
